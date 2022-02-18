@@ -99,21 +99,3 @@ body{
         flex-direction: column;
     }
 }
-
-/* @media screen and (max-width : 415px){
-
-    body {
-        background-color: #121212;
-
-    }
-    .buttons {
-        margin-top: 10%;
-        display: grid;
-        grid-template-columns: repeat(4, 5.5rem);
-        grid-template-rows: repeat(5, 5.5rem);
-
-    }
-    .header{
-        height: 17rem;
-    }
-} */
