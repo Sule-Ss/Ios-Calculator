@@ -9,6 +9,8 @@ body {
   font-family: 'Helvatica Neue', sans-serif;
   padding: 40px;
   color: white;
+  display: flex;
+  justify-content: center;
 }
 
 .calculator {
